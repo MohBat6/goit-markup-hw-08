@@ -1,0 +1,32 @@
+.advantages-scroll {
+    color: $title-text-color;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    text-transform: uppercase;
+}
+.advantages-list p {
+    margin-top: 10px;
+}
+.advantages-list {
+    display: flex;
+    font-size: 14px;
+    line-height: 1.71;
+}
+.advantages-list li + li {
+    margin-left: 30px;
+}
+.advantages-list li {
+    Width: calc((100% - 90px) / 4);
+}
+.advantages-div {
+    height: 120px;
+    margin-bottom: 30px;
+    padding: 25px 0px;
+    background: $background-section;
+    border-radius: 4px;
+}
+
+.advantages-title {
+    display: none;
+}

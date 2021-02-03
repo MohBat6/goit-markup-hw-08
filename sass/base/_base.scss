@@ -1,0 +1,25 @@
+h1, h2, h3, h4 {
+    margin: 0%;
+} 
+ul {
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+}
+a {
+    display: block;
+    text-decoration: none;
+    color: $main-text-color;
+}
+  p {
+      margin: 0%;
+      padding: 0%;
+  }
+  .list {
+    list-style: none;
+}
+body {
+    // font-family: $text-font;
+    // color: $main-text-color;
+    Letter-spacing: 0.03em;
+}
