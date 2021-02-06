@@ -2,10 +2,11 @@
     color: $accent-color;
 }
 .logo {
-    padding-top: 24px;
-    padding-bottom: 25px;
+    display: block;
+    padding-top: 16px;
+    padding-bottom: 16px;
     color: #000000;
-    // font-family: $logo-text;
+    font-family: $logo-text;
     font-weight: 700;
     font-size: 26px;
     text-decoration: none;
